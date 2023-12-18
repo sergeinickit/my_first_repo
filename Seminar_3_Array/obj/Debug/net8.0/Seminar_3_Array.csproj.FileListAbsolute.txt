@@ -1,0 +1,14 @@
+C:\Users\НИКИТИН\OneDrive\Рабочий стол\Open Editors\Seminar_3_Array\bin\Debug\net8.0\Seminar_3_Array.exe
+C:\Users\НИКИТИН\OneDrive\Рабочий стол\Open Editors\Seminar_3_Array\bin\Debug\net8.0\Seminar_3_Array.deps.json
+C:\Users\НИКИТИН\OneDrive\Рабочий стол\Open Editors\Seminar_3_Array\bin\Debug\net8.0\Seminar_3_Array.runtimeconfig.json
+C:\Users\НИКИТИН\OneDrive\Рабочий стол\Open Editors\Seminar_3_Array\bin\Debug\net8.0\Seminar_3_Array.dll
+C:\Users\НИКИТИН\OneDrive\Рабочий стол\Open Editors\Seminar_3_Array\bin\Debug\net8.0\Seminar_3_Array.pdb
+C:\Users\НИКИТИН\OneDrive\Рабочий стол\Open Editors\Seminar_3_Array\obj\Debug\net8.0\Seminar_3_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НИКИТИН\OneDrive\Рабочий стол\Open Editors\Seminar_3_Array\obj\Debug\net8.0\Seminar_3_Array.AssemblyInfoInputs.cache
+C:\Users\НИКИТИН\OneDrive\Рабочий стол\Open Editors\Seminar_3_Array\obj\Debug\net8.0\Seminar_3_Array.AssemblyInfo.cs
+C:\Users\НИКИТИН\OneDrive\Рабочий стол\Open Editors\Seminar_3_Array\obj\Debug\net8.0\Seminar_3_Array.csproj.CoreCompileInputs.cache
+C:\Users\НИКИТИН\OneDrive\Рабочий стол\Open Editors\Seminar_3_Array\obj\Debug\net8.0\Seminar_3_Array.dll
+C:\Users\НИКИТИН\OneDrive\Рабочий стол\Open Editors\Seminar_3_Array\obj\Debug\net8.0\refint\Seminar_3_Array.dll
+C:\Users\НИКИТИН\OneDrive\Рабочий стол\Open Editors\Seminar_3_Array\obj\Debug\net8.0\Seminar_3_Array.pdb
+C:\Users\НИКИТИН\OneDrive\Рабочий стол\Open Editors\Seminar_3_Array\obj\Debug\net8.0\Seminar_3_Array.genruntimeconfig.cache
+C:\Users\НИКИТИН\OneDrive\Рабочий стол\Open Editors\Seminar_3_Array\obj\Debug\net8.0\ref\Seminar_3_Array.dll
