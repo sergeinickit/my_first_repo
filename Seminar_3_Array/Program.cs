@@ -4,17 +4,41 @@
 // [-4 3 4 1], 3 => Да
 
 
+Console.WriteLine("Введите размер массива");
+int num = Convert.ToInt32(Console.ReadLine());    //Создание массива, переменной массива
+
 Console.WriteLine("Введите число");
-int num = Convert.ToInt32(Console.ReadLine());
+int num2 = Convert.ToInt32(Console.ReadLine()); 
 
-int[] array = new int[num];
+bool isFind = false;                                         //Создаем bool перменную, которая определяет "ложь" или "истина". Изначально она не найдена, значит "false".
 
-for(int i = 0; i < array.Length; i++)        //array - название массива; Length - встроенная функция, которая считает кол-во элементов массива
+int[] array = new int[num];                         //Пока массив из нулей
+
+for(int i = 0; i < array.Length; i++)        //array - название массива; Length - встроенная функция, которая считает кол-во элементов массива. Цикл для заполнения массива.
 {
-    array[i] = new Random().Next(0,10);        //new Random().Next() - класс для заполнения случайными числами, в скобках Next указываем диапазон.
+    array[i] = new Random().Next(0,20);        //new Random().Next() - класс для заполнения случайными числами, в скобках Next указываем диапазон.
                                                //В диапазоне максимальное число указываем на один больше, чем хотели.  
-   System.Console.Write(array[i]+ "");           //( + "") - Вывод записи с пробелом
+   System.Console.Write(array[i]+ " ");                     //( + " ") - Вывод записи с пробелом
+
+   if(array[i] == num2)
+   {
+      isFind = true;
+   }
 }
+if(isFind==true)                                  //isFind - переводится как "найдено".
+{
+   System.Console.Write("Да"); 
+}
+else
+{
+    System.Console.Write("Нет"); 
+}
+
+
+
+
+
+
 
 
 
