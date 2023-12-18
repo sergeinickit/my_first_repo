@@ -1,2 +1,23 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Задайте массив. Напишите программу, которая определяет, присутствует ли заданное число в массиве. Программа должна выдать ответ: Да/Нет.
+// Примеры:
+// [1 3 4 19 3], 8=> Нет
+// [-4 3 4 1], 3 => Да
+
+
+Console.WriteLine("Введите число");
+int num = Convert.ToInt32(Console.ReadLine());
+
+int[] array = new int[num];
+
+for(int i = 0; i < array.Length; i++)        //array - название массива; Length - встроенная функция, которая считает кол-во элементов массива
+{
+    array[i] = new Random().Next(0,10);        //new Random().Next() - класс для заполнения случайными числами, в скобках Next указываем диапазон.
+                                               //В диапазоне максимальное число указываем на один больше, чем хотели.  
+   System.Console.Write(array[i]+ "");           //( + "") - Вывод записи с пробелом
+}
+
+
+
+
+
+
