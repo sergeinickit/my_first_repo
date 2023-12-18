@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Seminar_3_Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc22fd5385c84f38327ac5acdcb522f685b6a5d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1aa68273daaf3a963efb6fdf4afd9ea41737ad1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Seminar_3_Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Seminar_3_Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
